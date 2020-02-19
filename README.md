@@ -1,1 +1,1 @@
-https://vasya24.github.io/Simple-page-demo/
+https://vasya24.github.io/Simple_page_demo/
